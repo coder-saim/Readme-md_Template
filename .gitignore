@@ -2,3 +2,4 @@
 !ok.txt
 *.txt
 tmp/
+*.class
