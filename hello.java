@@ -4,5 +4,6 @@ public class hello{
         System.out.println("hello tom and jerry");
         System.out.println("hello saim");
         System.out.println("hello tom and jerry");
+        System.out.println("Windows 11 git_setup successful");
     }
 }
